@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NCHRP 01-64 — LLM Wiki</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&family=Syne:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app">
+
+    <!-- SIDEBAR -->
+    <aside id="sidebar">
+      <div id="sidebar-header">
+        <span class="logo-mark">◈</span>
+        <span class="logo-text">NCHRP 01-64</span>
+      </div>
+
+      <div id="model-status">
+        <div id="status-dot" class="dot-loading"></div>
+        <span id="status-label">Loading model…</span>
+      </div>
+
+      <div id="progress-wrap" style="display:none">
+        <div id="progress-bar"><div id="progress-fill"></div></div>
+        <span id="progress-text">0%</span>
+      </div>
+
+      <nav id="wiki-nav">
+        <div class="nav-section-label">Pages</div>
+        <ul id="page-list"></ul>
+        <button id="new-page-btn" class="ghost-btn">+ New page</button>
+      </nav>
+
+      <div id="sidebar-footer">
+        <button id="import-btn" class="ghost-btn" title="Load wiki pages from this repo into your browser storage">⇩ Import repo wiki</button>
+        <button id="lint-btn" class="ghost-btn" title="Health-check the wiki">⟳ Lint wiki</button>
+      </div>
+    </aside>
+
+    <!-- MAIN PANEL -->
+    <main id="main">
+
+      <!-- EDITOR VIEW -->
+      <div id="editor-view" class="view active">
+        <div id="editor-topbar">
+          <input id="page-title" type="text" placeholder="Page title…" spellcheck="false">
+          <div id="editor-actions">
+            <button id="delete-page-btn" class="ghost-btn danger" title="Delete page">✕</button>
+          </div>
+        </div>
+        <textarea id="editor" placeholder="Write markdown here, or chat below to let the AI write it…" spellcheck="false"></textarea>
+        <div id="editor-save-hint">Changes saved automatically</div>
+      </div>
+
+      <!-- CHAT OVERLAY -->
+      <div id="chat-panel">
+        <div id="chat-messages"></div>
+        <div id="chat-input-row">
+          <textarea id="chat-input" placeholder="Ask a question or add a source to ingest…" rows="1"></textarea>
+          <button id="send-btn" disabled>↑</button>
+        </div>
+      </div>
+
+    </main>
+
+    <!-- PREVIEW PANEL -->
+    <aside id="preview-panel">
+      <div id="preview-topbar">
+        <span class="preview-label">Preview</span>
+        <button id="toggle-preview" class="ghost-btn">◧</button>
+      </div>
+      <div id="preview-content"></div>
+    </aside>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1114 @@
+{
+    "version":  1,
+    "generatedAt":  "2026-05-03T20:39:17.3853782Z",
+    "pages":  [
+                  {
+                      "id":  "index",
+                      "slug":  "index",
+                      "title":  "Wiki Index",
+                      "path":  "index.md",
+                      "category":  null,
+                      "tags":  [
+
+                               ],
+                      "bytes":  8346
+                  },
+                  {
+                      "id":  "log",
+                      "slug":  "log",
+                      "title":  "Wiki Log",
+                      "path":  "log.md",
+                      "category":  null,
+                      "tags":  [
+
+                               ],
+                      "bytes":  3274
+                  },
+                  {
+                      "id":  "overview",
+                      "slug":  "overview",
+                      "title":  "Overview",
+                      "path":  "wiki/overview.md",
+                      "category":  "synthesis",
+                      "tags":  [
+                                   "PCCP",
+                                   "longitudinal-cracking",
+                                   "synthesis"
+                               ],
+                      "bytes":  7242
+                  },
+                  {
+                      "id":  "longitudinal-cracking-mechanisms-synthesis",
+                      "slug":  "longitudinal-cracking-mechanisms-synthesis",
+                      "title":  "Longitudinal Cracking in JPCP — Mechanisms, Evidence, and Design Implications",
+                      "path":  "wiki/analyses/longitudinal-cracking-mechanisms-synthesis.md",
+                      "category":  "analysis",
+                      "tags":  [
+                                   "longitudinal-cracking",
+                                   "top-down-cracking",
+                                   "widened-slab",
+                                   "construction-practices",
+                                   "environmental-loading",
+                                   "synthesis"
+                               ],
+                      "bytes":  26171
+                  },
+                  {
+                      "id":  "built-in-curling",
+                      "slug":  "built-in-curling",
+                      "title":  "Built-In Curling",
+                      "path":  "wiki/concepts/built-in-curling.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "curling",
+                                   "environmental",
+                                   "construction",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1841
+                  },
+                  {
+                      "id":  "construction-practices",
+                      "slug":  "construction-practices",
+                      "title":  "Construction Practices",
+                      "path":  "wiki/concepts/construction-practices.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "construction",
+                                   "quality-control",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1400
+                  },
+                  {
+                      "id":  "corner-loading",
+                      "slug":  "corner-loading",
+                      "title":  "Corner Loading",
+                      "path":  "wiki/concepts/corner-loading.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "traffic-loading",
+                                   "stress",
+                                   "FEA",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1122
+                  },
+                  {
+                      "id":  "curling-warping",
+                      "slug":  "curling-warping",
+                      "title":  "Curling and Warping",
+                      "path":  "wiki/concepts/curling-warping.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "curling",
+                                   "warping",
+                                   "environmental",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1145
+                  },
+                  {
+                      "id":  "delamination-cracking",
+                      "slug":  "delamination-cracking",
+                      "title":  "Delamination Cracking",
+                      "path":  "wiki/concepts/delamination-cracking.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "cracking",
+                                   "delamination",
+                                   "dowel",
+                                   "failure-mechanism"
+                               ],
+                      "bytes":  1050
+                  },
+                  {
+                      "id":  "dowel-bar-misalignment",
+                      "slug":  "dowel-bar-misalignment",
+                      "title":  "Dowel Bar Misalignment",
+                      "path":  "wiki/concepts/dowel-bar-misalignment.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "dowel",
+                                   "construction",
+                                   "load-transfer",
+                                   "faulting"
+                               ],
+                      "bytes":  1202
+                  },
+                  {
+                      "id":  "dowel-bars",
+                      "slug":  "dowel-bars",
+                      "title":  "Dowel Bars",
+                      "path":  "wiki/concepts/dowel-bars.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "load-transfer",
+                                   "joint-design",
+                                   "PCCP",
+                                   "construction"
+                               ],
+                      "bytes":  1954
+                  },
+                  {
+                      "id":  "dry-climate-cracking",
+                      "slug":  "dry-climate-cracking",
+                      "title":  "Dry Climate Cracking",
+                      "path":  "wiki/concepts/dry-climate-cracking.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "climate",
+                                   "soil-voiding",
+                                   "longitudinal-cracking",
+                                   "subgrade"
+                               ],
+                      "bytes":  965
+                  },
+                  {
+                      "id":  "drying-shrinkage",
+                      "slug":  "drying-shrinkage",
+                      "title":  "Drying Shrinkage",
+                      "path":  "wiki/concepts/drying-shrinkage.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "shrinkage",
+                                   "environmental",
+                                   "longitudinal-cracking",
+                                   "concrete"
+                               ],
+                      "bytes":  1720
+                  },
+                  {
+                      "id":  "early-age-cracking",
+                      "slug":  "early-age-cracking",
+                      "title":  "Early-Age Cracking",
+                      "path":  "wiki/concepts/early-age-cracking.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "construction",
+                                   "early-age",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1179
+                  },
+                  {
+                      "id":  "environmental-loading",
+                      "slug":  "environmental-loading",
+                      "title":  "Environmental Loading",
+                      "path":  "wiki/concepts/environmental-loading.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "environmental",
+                                   "temperature",
+                                   "moisture",
+                                   "curling"
+                               ],
+                      "bytes":  1235
+                  },
+                  {
+                      "id":  "expansive-soils",
+                      "slug":  "expansive-soils",
+                      "title":  "Expansive Soils",
+                      "path":  "wiki/concepts/expansive-soils.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "subgrade",
+                                   "soil-mechanics",
+                                   "PCCP"
+                               ],
+                      "bytes":  1377
+                  },
+                  {
+                      "id":  "faulting",
+                      "slug":  "faulting",
+                      "title":  "Faulting",
+                      "path":  "wiki/concepts/faulting.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "distress",
+                                   "joint-defect",
+                                   "PCCP"
+                               ],
+                      "bytes":  1313
+                  },
+                  {
+                      "id":  "frost-heave",
+                      "slug":  "frost-heave",
+                      "title":  "Frost Heave",
+                      "path":  "wiki/concepts/frost-heave.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "frost-action",
+                                   "subgrade",
+                                   "climate",
+                                   "pavement-distress"
+                               ],
+                      "bytes":  2055
+                  },
+                  {
+                      "id":  "illi-slab",
+                      "slug":  "illi-slab",
+                      "title":  "ILLI-SLAB",
+                      "path":  "wiki/concepts/illi-slab.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "FEA",
+                                   "software",
+                                   "pavement-analysis"
+                               ],
+                      "bytes":  1352
+                  },
+                  {
+                      "id":  "jslab",
+                      "slug":  "jslab",
+                      "title":  "JSLAB",
+                      "path":  "wiki/concepts/jslab.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "finite-element",
+                                   "software",
+                                   "pavement-analysis"
+                               ],
+                      "bytes":  1296
+                  },
+                  {
+                      "id":  "late-afternoon-paving",
+                      "slug":  "late-afternoon-paving",
+                      "title":  "Late-Afternoon Paving",
+                      "path":  "wiki/concepts/late-afternoon-paving.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "construction",
+                                   "paving-timing",
+                                   "early-age-cracking",
+                                   "curling"
+                               ],
+                      "bytes":  1715
+                  },
+                  {
+                      "id":  "load-transfer",
+                      "slug":  "load-transfer",
+                      "title":  "Load Transfer",
+                      "path":  "wiki/concepts/load-transfer.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "joint-performance",
+                                   "dowels",
+                                   "PCCP"
+                               ],
+                      "bytes":  1779
+                  },
+                  {
+                      "id":  "longitudinal-cracking-case-studies",
+                      "slug":  "longitudinal-cracking-case-studies",
+                      "title":  "Longitudinal Cracking Case Studies",
+                      "path":  "wiki/concepts/longitudinal-cracking-case-studies.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "case-studies",
+                                   "field-investigation",
+                                   "longitudinal-cracking",
+                                   "projects",
+                                   "timeline"
+                               ],
+                      "bytes":  15955
+                  },
+                  {
+                      "id":  "longitudinal-cracking",
+                      "slug":  "longitudinal-cracking",
+                      "title":  "Longitudinal Cracking",
+                      "path":  "wiki/concepts/longitudinal-cracking.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "distress",
+                                   "PCCP",
+                                   "cracking"
+                               ],
+                      "bytes":  1880
+                  },
+                  {
+                      "id":  "longitudinal-joint-separation",
+                      "slug":  "longitudinal-joint-separation",
+                      "title":  "Longitudinal Joint Separation",
+                      "path":  "wiki/concepts/longitudinal-joint-separation.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "distress",
+                                   "joint-defect",
+                                   "tie-bars",
+                                   "CRCP",
+                                   "JCP"
+                               ],
+                      "bytes":  1799
+                  },
+                  {
+                      "id":  "loss-of-support",
+                      "slug":  "loss-of-support",
+                      "title":  "Loss of Support",
+                      "path":  "wiki/concepts/loss-of-support.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "subgrade",
+                                   "subbase",
+                                   "voids",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1166
+                  },
+                  {
+                      "id":  "ltpp-sps-2",
+                      "slug":  "ltpp-sps-2",
+                      "title":  "LTPP SPS-2",
+                      "path":  "wiki/concepts/ltpp-sps-2.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "LTPP",
+                                   "SPS-2",
+                                   "field-study",
+                                   "widened-slab",
+                                   "JPCP"
+                               ],
+                      "bytes":  1423
+                  },
+                  {
+                      "id":  "maturity-method",
+                      "slug":  "maturity-method",
+                      "title":  "Maturity Method",
+                      "path":  "wiki/concepts/maturity-method.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "testing",
+                                   "early-age",
+                                   "strength",
+                                   "construction"
+                               ],
+                      "bytes":  1009
+                  },
+                  {
+                      "id":  "model-calibration",
+                      "slug":  "model-calibration",
+                      "title":  "Model Calibration",
+                      "path":  "wiki/concepts/model-calibration.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "calibration",
+                                   "pavement-ME",
+                                   "empirical",
+                                   "design"
+                               ],
+                      "bytes":  1125
+                  },
+                  {
+                      "id":  "nighttime-cracking",
+                      "slug":  "nighttime-cracking",
+                      "title":  "Nighttime Cracking",
+                      "path":  "wiki/concepts/nighttime-cracking.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "environmental",
+                                   "temperature-gradient",
+                                   "early-age-cracking"
+                               ],
+                      "bytes":  1155
+                  },
+                  {
+                      "id":  "nonlinear-temperature-gradient",
+                      "slug":  "nonlinear-temperature-gradient",
+                      "title":  "Nonlinear Temperature Gradient",
+                      "path":  "wiki/concepts/nonlinear-temperature-gradient.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "temperature",
+                                   "gradient",
+                                   "FEA",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1583
+                  },
+                  {
+                      "id":  "pavement-me",
+                      "slug":  "pavement-me",
+                      "title":  "AASHTOWare Pavement ME",
+                      "path":  "wiki/concepts/pavement-me.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "design-method",
+                                   "software",
+                                   "mechanistic-empirical",
+                                   "calibration"
+                               ],
+                      "bytes":  1273
+                  },
+                  {
+                      "id":  "pca-fatigue-equation",
+                      "slug":  "pca-fatigue-equation",
+                      "title":  "PCA Fatigue Equation",
+                      "path":  "wiki/concepts/pca-fatigue-equation.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "fatigue",
+                                   "design",
+                                   "PCA",
+                                   "empirical"
+                               ],
+                      "bytes":  1089
+                  },
+                  {
+                      "id":  "premature-cracking",
+                      "slug":  "premature-cracking",
+                      "title":  "Premature Cracking",
+                      "path":  "wiki/concepts/premature-cracking.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "longitudinal-cracking",
+                                   "early-age",
+                                   "distress"
+                               ],
+                      "bytes":  1157
+                  },
+                  {
+                      "id":  "probabilistic-crack-model",
+                      "slug":  "probabilistic-crack-model",
+                      "title":  "Probabilistic Crack Model",
+                      "path":  "wiki/concepts/probabilistic-crack-model.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "statistical-model",
+                                   "saw-cut-depth",
+                                   "longitudinal-cracking",
+                                   "crack-confinement"
+                               ],
+                      "bytes":  2162
+                  },
+                  {
+                      "id":  "saw-cut-depth",
+                      "slug":  "saw-cut-depth",
+                      "title":  "Saw-Cut Depth",
+                      "path":  "wiki/concepts/saw-cut-depth.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "construction-practice",
+                                   "joint-sawing",
+                                   "PCCP"
+                               ],
+                      "bytes":  1448
+                  },
+                  {
+                      "id":  "shoulder-design",
+                      "slug":  "shoulder-design",
+                      "title":  "Shoulder Design",
+                      "path":  "wiki/concepts/shoulder-design.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "shoulder",
+                                   "design",
+                                   "load-transfer",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1183
+                  },
+                  {
+                      "id":  "skewed-joints",
+                      "slug":  "skewed-joints",
+                      "title":  "Skewed Joints",
+                      "path":  "wiki/concepts/skewed-joints.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "joint-design",
+                                   "geometry",
+                                   "FEA",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1506
+                  },
+                  {
+                      "id":  "slab-curl",
+                      "slug":  "slab-curl",
+                      "title":  "Slab Curl",
+                      "path":  "wiki/concepts/slab-curl.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "curling",
+                                   "environmental",
+                                   "soil-voiding"
+                               ],
+                      "bytes":  1346
+                  },
+                  {
+                      "id":  "slab-geometry",
+                      "slug":  "slab-geometry",
+                      "title":  "Slab Geometry",
+                      "path":  "wiki/concepts/slab-geometry.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "slab-design",
+                                   "length-width-ratio",
+                                   "JPCP",
+                                   "fatigue"
+                               ],
+                      "bytes":  1918
+                  },
+                  {
+                      "id":  "soil-voiding",
+                      "slug":  "soil-voiding",
+                      "title":  "Soil Voiding",
+                      "path":  "wiki/concepts/soil-voiding.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "subgrade",
+                                   "voids",
+                                   "curling",
+                                   "soil-mechanics"
+                               ],
+                      "bytes":  1395
+                  },
+                  {
+                      "id":  "stabilized-base",
+                      "slug":  "stabilized-base",
+                      "title":  "Stabilized Base",
+                      "path":  "wiki/concepts/stabilized-base.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "subbase",
+                                   "HMA",
+                                   "PCC",
+                                   "drainage"
+                               ],
+                      "bytes":  1029
+                  },
+                  {
+                      "id":  "subbase-erosion",
+                      "slug":  "subbase-erosion",
+                      "title":  "Subbase Erosion",
+                      "path":  "wiki/concepts/subbase-erosion.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "subbase",
+                                   "erosion",
+                                   "drainage",
+                                   "loss-of-support"
+                               ],
+                      "bytes":  1354
+                  },
+                  {
+                      "id":  "subsealing",
+                      "slug":  "subsealing",
+                      "title":  "Subsealing",
+                      "path":  "wiki/concepts/subsealing.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "rehabilitation",
+                                   "maintenance",
+                                   "PCCP"
+                               ],
+                      "bytes":  957
+                  },
+                  {
+                      "id":  "summer-paving",
+                      "slug":  "summer-paving",
+                      "title":  "Summer Paving",
+                      "path":  "wiki/concepts/summer-paving.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "construction",
+                                   "paving-timing",
+                                   "environmental",
+                                   "curling"
+                               ],
+                      "bytes":  1116
+                  },
+                  {
+                      "id":  "temperature-gradient",
+                      "slug":  "temperature-gradient",
+                      "title":  "Temperature Gradient",
+                      "path":  "wiki/concepts/temperature-gradient.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "temperature",
+                                   "environmental",
+                                   "curling"
+                               ],
+                      "bytes":  1259
+                  },
+                  {
+                      "id":  "tie-bars",
+                      "slug":  "tie-bars",
+                      "title":  "Tie Bars",
+                      "path":  "wiki/concepts/tie-bars.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "reinforcement",
+                                   "joint",
+                                   "load-transfer"
+                               ],
+                      "bytes":  1061
+                  },
+                  {
+                      "id":  "tied-concrete-shoulder",
+                      "slug":  "tied-concrete-shoulder",
+                      "title":  "Tied Concrete Shoulder",
+                      "path":  "wiki/concepts/tied-concrete-shoulder.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "shoulder",
+                                   "design",
+                                   "load-transfer",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1663
+                  },
+                  {
+                      "id":  "top-down-cracking",
+                      "slug":  "top-down-cracking",
+                      "title":  "Top-Down Cracking",
+                      "path":  "wiki/concepts/top-down-cracking.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "cracking",
+                                   "longitudinal-cracking",
+                                   "failure-mechanism"
+                               ],
+                      "bytes":  1528
+                  },
+                  {
+                      "id":  "vibrator-trails",
+                      "slug":  "vibrator-trails",
+                      "title":  "Vibrator Trails",
+                      "path":  "wiki/concepts/vibrator-trails.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "construction-defect",
+                                   "consolidation",
+                                   "PCCP"
+                               ],
+                      "bytes":  1448
+                  },
+                  {
+                      "id":  "weakened-plane",
+                      "slug":  "weakened-plane",
+                      "title":  "Weakened Plane",
+                      "path":  "wiki/concepts/weakened-plane.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "design",
+                                   "joint-design",
+                                   "PCCP"
+                               ],
+                      "bytes":  1388
+                  },
+                  {
+                      "id":  "widened-slab",
+                      "slug":  "widened-slab",
+                      "title":  "Widened Slab",
+                      "path":  "wiki/concepts/widened-slab.md",
+                      "category":  "concept",
+                      "tags":  [
+                                   "slab-design",
+                                   "widened-lane",
+                                   "JPCP",
+                                   "longitudinal-cracking"
+                               ],
+                      "bytes":  1799
+                  },
+                  {
+                      "id":  "cdot",
+                      "slug":  "cdot",
+                      "title":  "Colorado Department of Transportation (CDOT)",
+                      "path":  "wiki/entities/cdot.md",
+                      "category":  "entity",
+                      "tags":  [
+                                   "transportation-agency",
+                                   "PCCP",
+                                   "CDOT"
+                               ],
+                      "bytes":  871
+                  },
+                  {
+                      "id":  "construction-technology-laboratory",
+                      "slug":  "construction-technology-laboratory",
+                      "title":  "Construction Technology Laboratory (CTL)",
+                      "path":  "wiki/entities/construction-technology-laboratory.md",
+                      "category":  "entity",
+                      "tags":  [
+                                   "research-laboratory",
+                                   "pavement-engineering",
+                                   "PCA"
+                               ],
+                      "bytes":  791
+                  },
+                  {
+                      "id":  "mccullough",
+                      "slug":  "mccullough",
+                      "title":  "McCullough, B. Frank",
+                      "path":  "wiki/entities/mccullough.md",
+                      "category":  "entity",
+                      "tags":  [
+                                   "researcher",
+                                   "pavement-engineering",
+                                   "university-of-texas"
+                               ],
+                      "bytes":  647
+                  },
+                  {
+                      "id":  "michael-darter",
+                      "slug":  "michael-darter",
+                      "title":  "Michael Darter",
+                      "path":  "wiki/entities/michael-darter.md",
+                      "category":  "entity",
+                      "tags":  [
+                                   "researcher",
+                                   "pavement-engineering"
+                               ],
+                      "bytes":  627
+                  },
+                  {
+                      "id":  "saraf",
+                      "slug":  "saraf",
+                      "title":  "Saraf, Chhote L.",
+                      "path":  "wiki/entities/saraf.md",
+                      "category":  "entity",
+                      "tags":  [
+                                   "researcher",
+                                   "pavement-engineering"
+                               ],
+                      "bytes":  709
+                  },
+                  {
+                      "id":  "tayabji",
+                      "slug":  "tayabji",
+                      "title":  "Tayabji, Shiraz D.",
+                      "path":  "wiki/entities/tayabji.md",
+                      "category":  "entity",
+                      "tags":  [
+                                   "researcher",
+                                   "pavement-engineering",
+                                   "CTL",
+                                   "PCA"
+                               ],
+                      "bytes":  815
+                  },
+                  {
+                      "id":  "ardani-et-al-2003-colorado",
+                      "slug":  "ardani-et-al-2003-colorado",
+                      "title":  "Evaluation of Premature PCCP Longitudinal Cracking in Colorado",
+                      "path":  "wiki/sources/ardani-et-al-2003-colorado.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "longitudinal-cracking",
+                                   "saw-cut-depth",
+                                   "vibrator-trails",
+                                   "PCCP",
+                                   "CDOT"
+                               ],
+                      "bytes":  5177
+                  },
+                  {
+                      "id":  "chen-2014-longitudinal-joint-repairs",
+                      "slug":  "chen-2014-longitudinal-joint-repairs",
+                      "title":  "Repairs of Longitudinal Joint Separations and Their Performances",
+                      "path":  "wiki/sources/chen-2014-longitudinal-joint-repairs.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "longitudinal-joint-separation",
+                                   "slot-stitching",
+                                   "stapling",
+                                   "cross-stitching",
+                                   "tie-bars",
+                                   "repair-methods",
+                                   "LTE"
+                               ],
+                      "bytes":  5703
+                  },
+                  {
+                      "id":  "dere-asgari-sotelino-archer-2006-skewed-jpcp",
+                      "slug":  "dere-asgari-sotelino-archer-2006-skewed-jpcp",
+                      "title":  "Failure Prediction of Skewed Jointed Plain Concrete Pavements Using 3D FE Analysis",
+                      "path":  "wiki/sources/dere-asgari-sotelino-archer-2006-skewed-jpcp.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "skewed-joints",
+                                   "3d-fea",
+                                   "nonlinear-temperature-gradient",
+                                   "fatigue-analysis",
+                                   "subgrade-stiffness",
+                                   "ansys"
+                               ],
+                      "bytes":  4350
+                  },
+                  {
+                      "id":  "desantis-roesler-2022-stabilized-support-layers",
+                      "slug":  "desantis-roesler-2022-stabilized-support-layers",
+                      "title":  "Performance Evaluation of Stabilized Support Layers for Concrete Pavements",
+                      "path":  "wiki/sources/desantis-roesler-2022-stabilized-support-layers.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "subbase-erosion",
+                                   "stabilized-base",
+                                   "Hamburg-wheel-tracking",
+                                   "FWD",
+                                   "MIRA",
+                                   "CAM-II",
+                                   "HMA-subbase"
+                               ],
+                      "bytes":  3514
+                  },
+                  {
+                      "id":  "heath-roesler-2000-top-down-cracking-fshcc",
+                      "slug":  "heath-roesler-2000-top-down-cracking-fshcc",
+                      "title":  "Top-Down Cracking of Rigid Pavements Constructed with Fast-Setting Hydraulic Cement Concrete",
+                      "path":  "wiki/sources/heath-roesler-2000-top-down-cracking-FSHCC.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "top-down-cracking",
+                                   "FSHCC",
+                                   "drying-shrinkage",
+                                   "ILLI-SLAB",
+                                   "Palmdale",
+                                   "environmental-cracking"
+                               ],
+                      "bytes":  4120
+                  },
+                  {
+                      "id":  "janda-1935-wisconsin-highway-13",
+                      "slug":  "janda-1935-wisconsin-highway-13",
+                      "title":  "Longitudinal Cracking of Concrete Pavements on State Highway 13 in Clark and Taylor Counties, Wisconsin",
+                      "path":  "wiki/sources/janda-1935-wisconsin-highway-13.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "frost-heave",
+                                   "expansive-soils",
+                                   "tie-bars",
+                                   "reinforcement",
+                                   "longitudinal-cracking",
+                                   "historical"
+                               ],
+                      "bytes":  5010
+                  },
+                  {
+                      "id":  "kaya-et-al-2019-widened-jpcp-longitudinal-cracking",
+                      "slug":  "kaya-et-al-2019-widened-jpcp-longitudinal-cracking",
+                      "title":  "Numerical Analysis of Longitudinal Cracking in Widened Jointed Plain Concrete Pavement Systems",
+                      "path":  "wiki/sources/kaya-et-al-2019-widened-jpcp-longitudinal-cracking.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "widened-slabs",
+                                   "numerical-analysis",
+                                   "shoulder-design",
+                                   "tied-PCC-shoulder",
+                                   "HMA-shoulder",
+                                   "Iowa"
+                               ],
+                      "bytes":  4294
+                  },
+                  {
+                      "id":  "lim-tayabji-2005-early-age-longitudinal-cracking",
+                      "slug":  "lim-tayabji-2005-early-age-longitudinal-cracking",
+                      "title":  "Analytical Technique to Mitigate Early-Age Longitudinal Cracking in Jointed Concrete Pavements",
+                      "path":  "wiki/sources/lim-tayabji-2005-early-age-longitudinal-cracking.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "early-age-cracking",
+                                   "JSLAB",
+                                   "temperature-gradient",
+                                   "maturity-method",
+                                   "interface-friction",
+                                   "paving-width"
+                               ],
+                      "bytes":  4596
+                  },
+                  {
+                      "id":  "mateos-harvey-2021-early-age-premature-cracking",
+                      "slug":  "mateos-harvey-2021-early-age-premature-cracking",
+                      "title":  "Early-Age and Premature Cracking in Jointed Plain Concrete Pavements: Literature Review",
+                      "path":  "wiki/sources/mateos-harvey-2021-early-age-premature-cracking.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "early-age-cracking",
+                                   "premature-cracking",
+                                   "construction-practices",
+                                   "Caltrans",
+                                   "mixture-design",
+                                   "curing"
+                               ],
+                      "bytes":  4246
+                  },
+                  {
+                      "id":  "ozbeki-et-al-trr-1043",
+                      "slug":  "ozbeki-et-al-trr-1043",
+                      "title":  "Evaluation Methodology for Jointed Concrete Pavements",
+                      "path":  "wiki/sources/ozbeki-et-al-trr-1043.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "transverse-joints",
+                                   "dowels",
+                                   "load-transfer",
+                                   "JSLAB",
+                                   "finite-element",
+                                   "NDT",
+                                   "subgrade-reaction"
+                               ],
+                      "bytes":  4686
+                  },
+                  {
+                      "id":  "quan-et-al-2014-built-in-curling",
+                      "slug":  "quan-et-al-2014-built-in-curling",
+                      "title":  "Inclusion of Built-In Curling Temperature Profile in Curling-Stress Determination for Rigid Pavement",
+                      "path":  "wiki/sources/quan-et-al-2014-built-in-curling.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "built-in-curling",
+                                   "nonlinear-temperature-gradient",
+                                   "summer-paving",
+                                   "LTPP",
+                                   "curling-stress"
+                               ],
+                      "bytes":  3159
+                  },
+                  {
+                      "id":  "rao-abdualla-sufian-2024-dowel-tie-bar-cracking",
+                      "slug":  "rao-abdualla-sufian-2024-dowel-tie-bar-cracking",
+                      "title":  "Solutions to Mitigate Dowel/Tie-Bar Propagated Cracking Phase 1",
+                      "path":  "wiki/sources/rao-abdualla-sufian-2024-dowel-tie-bar-cracking.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "dowel-bar",
+                                   "tie-bar",
+                                   "delamination",
+                                   "MIRA",
+                                   "GPR",
+                                   "field-investigation",
+                                   "early-age-cracking",
+                                   "restraint-cracking"
+                               ],
+                      "bytes":  5215
+                  },
+                  {
+                      "id":  "saboori-et-al-2021-pavement-me-calibration",
+                      "slug":  "saboori-et-al-2021-pavement-me-calibration",
+                      "title":  "Pavement ME JPCP Transverse Cracking Model Calibration and Design Catalog Framework (Version 2.5.5)",
+                      "path":  "wiki/sources/saboori-et-al-2021-pavement-me-calibration.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "Pavement-ME",
+                                   "model-calibration",
+                                   "transverse-cracking",
+                                   "California",
+                                   "PaveM",
+                                   "design-catalog"
+                               ],
+                      "bytes":  3509
+                  },
+                  {
+                      "id":  "saraf-mccullough-1986-sawcut-depth-probabilistic",
+                      "slug":  "saraf-mccullough-1986-sawcut-depth-probabilistic",
+                      "title":  "Controlling Longitudinal Cracking in Concrete Pavements",
+                      "path":  "wiki/sources/saraf-mccullough-1986-sawcut-depth-probabilistic.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "longitudinal-cracking",
+                                   "saw-cut-depth",
+                                   "probabilistic-model",
+                                   "crack-confinement",
+                                   "aggregate-variability",
+                                   "Texas"
+                               ],
+                      "bytes":  4622
+                  },
+                  {
+                      "id":  "seo-kim-2013-dowel-longitudinal-cracking",
+                      "slug":  "seo-kim-2013-dowel-longitudinal-cracking",
+                      "title":  "Longitudinal Cracking at Transverse Joints Caused by Dowel Bars in Jointed Concrete Pavements",
+                      "path":  "wiki/sources/seo-kim-2013-dowel-longitudinal-cracking.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "dowel-bar",
+                                   "vertical-translation",
+                                   "transverse-joints",
+                                   "environmental-loading",
+                                   "abaqus",
+                                   "korea"
+                               ],
+                      "bytes":  4227
+                  },
+                  {
+                      "id":  "tayabji-trr-1062",
+                      "slug":  "tayabji-trr-1062",
+                      "title":  "Dowel Placement Tolerances for Concrete Pavements",
+                      "path":  "wiki/sources/tayabji-trr-1062.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "dowel-bars",
+                                   "misalignment",
+                                   "load-transfer",
+                                   "construction-tolerance",
+                                   "joint-performance"
+                               ],
+                      "bytes":  5711
+                  },
+                  {
+                      "id":  "uddin-et-al-trr-1482",
+                      "slug":  "uddin-et-al-trr-1482",
+                      "title":  "Three-Dimensional Finite-Element Analysis of Jointed Concrete Pavement with Discontinuities",
+                      "path":  "wiki/sources/uddin-et-al-trr-1482.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "finite-element",
+                                   "ABAQUS",
+                                   "FWD",
+                                   "cracking",
+                                   "backcalculation",
+                                   "dynamic-analysis"
+                               ],
+                      "bytes":  4713
+                  },
+                  {
+                      "id":  "xiao-wu-2018-louisiana-longitudinal-cracking",
+                      "slug":  "xiao-wu-2018-louisiana-longitudinal-cracking",
+                      "title":  "Longitudinal Cracking of Jointed Plain Concrete Pavements in Louisiana: Field Investigation and Numerical Simulation",
+                      "path":  "wiki/sources/xiao-wu-2018-louisiana-longitudinal-cracking.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "longitudinal-cracking",
+                                   "widened-slab",
+                                   "tied-shoulder",
+                                   "slab-geometry",
+                                   "ABAQUS",
+                                   "MEPDG",
+                                   "empirical-model"
+                               ],
+                      "bytes":  5923
+                  },
+                  {
+                      "id":  "xu-cebon-2017-lttp-cracking-analysis",
+                      "slug":  "xu-cebon-2017-lttp-cracking-analysis",
+                      "title":  "Analysis of Cracking in Jointed Plain Concrete Pavements",
+                      "path":  "wiki/sources/xu-cebon-2017-lttp-cracking-analysis.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "LTPP-SPS2",
+                                   "premature-cracking",
+                                   "slab-curl",
+                                   "soil-voiding",
+                                   "depressurization",
+                                   "dry-climate"
+                               ],
+                      "bytes":  3540
+                  },
+                  {
+                      "id":  "yang-et-al-2020-widened-concrete-pavements",
+                      "slug":  "yang-et-al-2020-widened-concrete-pavements",
+                      "title":  "Investigation of Longitudinal Cracking in Widened Concrete Pavements",
+                      "path":  "wiki/sources/yang-et-al-2020-widened-concrete-pavements.md",
+                      "category":  "source",
+                      "tags":  [
+                                   "widened-slabs",
+                                   "curling-warping",
+                                   "terrestrial-laser-scanner",
+                                   "skewed-joints",
+                                   "late-afternoon-paving",
+                                   "Iowa"
+                               ],
+                      "bytes":  3810
+                  }
+              ]
+}
